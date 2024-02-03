@@ -1,0 +1,15 @@
+<config>
+  <server>
+    <tcp host="rcv4.xldw.n0808.com" port="80"/>
+  </server>
+  <priority>
+    <level id="0" reporttime="0"/>
+    <level id="1" reporttime="0"/>
+    <level id="2" reporttime="1"/>
+    <level id="3" reporttime="-1"/>
+    <level id="4" reporttime="-2"/>
+  </priority>
+  <stat>
+    <event index="5218" key="xlx_download_diagnosis" priority="1"/>
+  </stat>
+</config>
